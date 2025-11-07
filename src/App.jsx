@@ -8,6 +8,7 @@ function App() {
   
   return (
     <>
+    
       <NavBar />
       <section className="flex bg-[#d1e6ff] h-screen w-screen ">
         <div className="flex-1">
